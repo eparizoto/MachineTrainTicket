@@ -1,5 +1,61 @@
 #Train Ticket Machine
 ====================
+You are asked to write code to support the user interface of a train ticket machine.
+You will not be writing any actual User Interface code.
+But you should develop a search algorithm to help the user entering the name of a station.
+The machine has a touchscreen display which works as follows.
+As the user types each character of the station’s name on the touchscreen, the display should:
+	Update to show all valid choices for the next character 
+	List of possible matching stations.
+	
+The illustration below shows what is needed when ‘D A R T’ has been entered.
+
+
+User input: D A R T __
+ 
+|   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | 
+| A | B | C | D | E | DARTFORD  |
+| F | G | H | I | J | DARTMOUTH |
+| K | L | M | N | O |
+| P | Q | R | S | T |
+| U | V | W | X | Y |
+| Z |   |   |   |   |
+
+Expected Scenarios:
+
+Given a list of stations ‘DARTFORD’, ‘DARTMOUTH’, ‘TOWER HILL’, ‘DERBY’
+When input ‘DART’
+Then should return:
+The characters of ‘F’, ‘M’
+The stations ‘DARTFORD’, ‘DARTMOUTH’.
+
+Given a list of stations  ‘LIVERPOOL’, ‘LIVERPOOL LIME STREET’, ‘PADDINGTON’
+When input ‘LIVERPOOL’ 
+Then should return:
+The characters of ‘ ‘
+The stations ‘LIVERPOOL’, ‘LIVERPOOL LIME STREET’
+
+Given a list of stations ‘EUSTON’, ‘LONDON BRIDGE’, ‘VICTORIA’ 
+When input ‘KINGS CROSS’
+Then the application will return: 
+no next characters 
+no stations
+ 
+Requirements:
+Typing a search string will return: 
+All stations that start with the search string;
+All valid next characters for each matched station;
+Runtime speed is very important;
+A space is a valid character when returning a list of next characters;
+You don’t need to go overboard with your station list in your tests. A small enough list of stations to adequately test each condition will suffice
+Not Required:
+A fast loading time is not required at start-up, runtime performance takes priority;
+This will be run on a dedicated machine designed for the purpose;
+The application will be used by a single user at a time. There’s no need to code for concurrency;
+No code is required for reading the stations from a data store; 
+You may stub the station list or mock a station reader in your tests, whichever you feel represents the best real world solution;
+
 
 Versões e softwares utilizados
 ==============================
