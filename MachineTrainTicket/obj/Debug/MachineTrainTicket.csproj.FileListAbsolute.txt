@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\bin\Debug\MachineTrainTicket.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\bin\Debug\MachineTrainTicket.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\bin\Debug\MachineTrainTicket.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\obj\Debug\MachineTrainTicket.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\obj\Debug\MachineTrainTicket.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\obj\Debug\MachineTrainTicket.csprojResolveAssemblyReference.cache

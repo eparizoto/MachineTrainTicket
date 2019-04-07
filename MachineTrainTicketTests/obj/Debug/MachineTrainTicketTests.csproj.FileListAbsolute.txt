@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicketTests\bin\Debug\MachineTrainTicketTests.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicketTests\bin\Debug\MachineTrainTicketTests.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicketTests\bin\Debug\MachineTrainTicket.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicketTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicketTests\bin\Debug\MachineTrainTicket.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicketTests\obj\Debug\MachineTrainTicketTests.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicketTests\obj\Debug\MachineTrainTicketTests.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicketTests\obj\Debug\MachineTrainTicketTests.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\bin\Release\MachineTrainTicket.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\bin\Release\MachineTrainTicket.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\bin\Release\MachineTrainTicket.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\obj\Release\MachineTrainTicket.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\MachineTrainTicket\MachineTrainTicket\obj\Release\MachineTrainTicket.pdb
